@@ -1,0 +1,51 @@
+#### Intro to CyberSec
+- As a security analyst, you'll work to protect your organization and the people it serves from a variety of risks and outside threats. And if a threat does get through, you and your team will provide a solution to remedy the situation.
+    - Cybersecurity, or security, is the practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
+    - Security protects against external and internal threats. An external threat is someone outside of the organization trying to gain access to private information, networks or devices. An internal threat comes from current or former employees, external vendors, or trusted partners.
+    - It's really easy to get imposter syndrome in cybersecurity because it's so broad and mastery of all these different areas is a lifetime's work. And sometimes that imposter syndrome can shut us down and make it feel like, why bother trying to keep growing. I'm never going to be able to master this instead of motivating us. So keep learning, push through that fear. The efforts are always going to be rewarded.
+    - Security analysts are responsible for monitoring and protecting information and systems. Protecting computer and network systems requires an analyst to monitor an organization's internal network. If a threat is detected, then an analyst is generally the first to respond. Analysts also often take part in exercises to search for weaknesses in an organization's own systems.
+    - Security analysts also proactively work to prevent threats from happening in the first place. Analysts may also be involved in software and hardware development. They'll often work with development teams to support product security by setting up appropriate processes and systems to meet the organization's data protection needs.
+    - Key terms:
+      - Compliance is the process of adhering to internal standards and external regulations and enables organizations to avoid fines and security breaches.
+      - Security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy.
+      - Security controls are safeguards designed to reduce specific security risks.
+      - Security posture is an organization’s ability to manage its defense of critical assets and data and react to change.
+      - A threat actor, or malicious attacker, is any person or group who presents a security risk.
+      - An internal threat can be a current or former employee, an external vendor, or a trusted partner who poses a security risk.
+      - Network security is the practice of keeping an organization's network infrastructure secure from unauthorized access.
+      - Cloud security is the process of ensuring that assets stored in the cloud are properly configured, or set up correctly, and access to those assets is limited to authorized users.
+      - Programming is a process that can be used to create a specific set of instructions for a computer to execute tasks.
+#### Core Skills for CyberSec Pro’s
+- - Transferable skills are skills from other areas that can apply to different careers.
+    - Technical skills may apply to several professions as well. However, at times they may require knowledge of specific tools, procedures, and policies.
+    - Communication is a transferable skill for a security analyst. They will often need to describe certain threats, risks, or vulnerabilities to people who may not have a technical background. Another transferable skill is collaboration. Security analysts often work in teams with engineers, digital forensic investigators, and program managers. Problem-solving is also another transferable skill- identifying a security problem and then diagnosing it and providing solutions is a necessary skill to keep business operations safe. Understanding threat actors and identifying trends can provide insight on how to handle future threats.
+    - A basic understanding of programming languages is an important skill to develop because security analysts can use programming to automate tasks and identify error messages. Another important technical skill is knowing how to use security information and event management, or SIEM, tools. Security professionals use SIEM tools to identify and analyze security threats, risks, and vulnerabilities.
+    - Transferable skills:
+      - Communication: As a cybersecurity analyst, you will need to communicate and collaborate with others.
+      - Problem-solving: One of your main tasks as a cybersecurity analyst will be to proactively identify and solve problems.
+      - Time management: Having a heightened sense of urgency and prioritizing tasks appropriately is essential in the cybersecurity field.
+      - Growth mindset: This is an evolving industry, so an important transferable skill is a willingness to learn.
+      - Diverse perspectives: The only way to go far is together.
+    - Technical skills:
+      - Programming languages: By understanding how to use programming languages, cybersecurity analysts can automate tasks that would otherwise be very time consuming.
+      - Security information and event management (SIEM) tools: SIEM tools collect and analyze log data, or records of events such as unusual login behavior, and support analysts’ ability to monitor critical activities in an organization.
+      - Intrusion detection systems (IDSs): Cybersecurity analysts use IDSs to monitor system activity and alerts for possible intrusions.
+      - Threat landscape knowledge: Being aware of current trends related to threat actors, malware, or threat methodologies is vital.
+      - Incident response: Cybersecurity analysts need to be able to follow established policies and procedures to respond to incidents appropriately.
+    - Security is essential for ensuring an organization's business continuity and ethical standing. There are both legal implications and moral considerations to maintaining an organization's security.
+    - Personally identifiable information, known as PII, is any information used to infer an individual's identity. Sensitive personally identifiable information, known as SPII, is a specific type of PII that falls under stricter handling guidelines. PII and SPII data are key assets that a threat actor will look for if an organization experiences a breach.
+    - Identity theft is the act of stealing personal information to commit fraud while impersonating a victim. And the primary objective of identity theft is financial gain.
+
+#### Review
+- Terms and definitions from Course 1, Module 1
+	- Cybersecurity (or security): The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation
+	- Cloud security: The process of ensuring that assets stored in the cloud are properly configured and access to those assets is limited to authorized users
+	- Internal threat: A current or former employee, external vendor, or trusted partner who poses a security risk
+	- Network security: The practice of keeping an organization's network infrastructure secure from unauthorized access
+	- Personally identifiable information (PII): Any information used to infer an individual’s identity
+	- Security posture: An organization’s ability to manage its defense of critical assets and data and react to change
+	- Sensitive personally identifiable information (SPII): A specific type of PII that falls under stricter handling guidelines
+	- Technical skills: Skills that require knowledge of specific tools, procedures, and policies
+	- Threat: Any circumstance or event that can negatively impact assets
+	- Threat actor: Any person or group who presents a security risk
+	- Transferable skills: Skills from other areas that can apply to different careers
