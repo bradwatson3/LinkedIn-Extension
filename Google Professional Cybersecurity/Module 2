@@ -1,0 +1,85 @@
+#### History of CyberSec
+- Attackers often alter or enhance previous methods. Understanding past attacks can provide direction for how to handle or investigate incidents in your job as a security analyst.
+    - A computer virus is malicious code written to interfere with computer operations and cause damage to data and software. The virus attaches itself to programs or documents on a computer, then spreads and infects one or more computers in a network.
+    - In 1986, the Alvi brothers created the Brain virus, although the intention of the virus was to track illegal copies of medical software and prevent pirated licenses, what the virus actually did was unexpected. Once a person used a pirated copy of the software, the virus-infected that computer.
+    - In 1988, Robert Morris developed a program to assess the size of the internet. The program crawled the web and installed itself onto other computers to tally the number of computers that were connected to the internet.
+    - After the Morris worm, Computer Emergency Response Teams, known as CERTs®, were established to respond to computer security incidents. CERTs still exist today, but their place in the security industry has expanded to include more responsibilities.
+    - In the year 2000, Onel De Guzman created the LoveLetter malware to steal internet login credentials. This attack spread rapidly and took advantage of people who had not developed a healthy suspicion for unsolicited emails. Users received an email with the subject line, "I Love You." Each email contained an attachment labeled, "Love Letter For You." When the attachment was opened, the malware scanned a user's address book. Then, it automatically sent itself to each person on the list and installed a program to collect user information and passwords.
+    - Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables.
+    - As a security professional, your role is to identify and manage inappropriate use of technology that may place your organization and all the people associated with it at risk. One way to safeguard your organization is to conduct regular internal trainings, which you as a future security analyst may be asked to lead or participate in.
+    - In 2017, attackers successfully infiltrated the credit reporting agency, Equifax. This resulted in one of the largest known data breaches of sensitive information. Over 143 million customer records were stolen, and the breach affected approximately 40% of all Americans.
+    - Phishing:
+      - Phishing is the use of digital communications to trick people into revealing sensitive data or deploying malicious software.
+        - Business Email Compromise (BEC): A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information, in order to obtain a financial advantage.
+        - Spear phishing: A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
+        - Whaling: A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
+        - Vishing: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+        - Smishing: The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+    - Malware
+      - Malware is software designed to harm devices or networks. The primary purpose of malware is to obtain money, or in some cases, an intelligence advantage that can be used against a person, an organization, or a territory.
+        - Viruses: Malicious code written to interfere with computer operations and cause damage to data and software. A virus needs to be initiated by a user (i.e., a threat actor), who transmits the virus via a malicious attachment or file download. When someone opens the malicious attachment or download, the virus hides itself in other files in the now infected system. When the infected files are opened, it allows the virus to insert its own code to damage and/or destroy data in the system.
+        - Worms: Malware that can duplicate and spread itself across systems on its own. In contrast to a virus, a worm does not need to be downloaded by a user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
+        - Ransomware: A malicious attack where threat actors encrypt an organization's data and demand payment to restore access.
+        - Spyware: Malware that’s used to gather and sell information without consent. Spyware can be used to access devices. This allows threat actors to collect personal data, such as private emails, texts, voice and image recordings, and locations.
+    - Social Engineering
+      - Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables.
+        - Social media phishing: A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
+        - Watering hole attack: A threat actor attacks a website frequently visited by a specific group of users.
+        - USB baiting: A threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowingly infect a network.
+        - Physical social engineering: A threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
+      - Social engineering principles:
+        - Authority: Threat actors impersonate individuals with power.
+        - Intimidation: Threat actors use bullying tactics.
+        - Consensus/Social proof: Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate.
+        - Scarcity: A tactic used to imply that goods or services are in limited supply.
+        - Familiarity: Threat actors establish a fake emotional connection with users that can be exploited.
+        - Trust: Threat actors establish an emotional relationship with users that can be exploited over time.
+        - Urgency: A threat actor persuades others to respond quickly and without questioning.
+
+#### Eight CISSP Security Domains
+- As of 2022, CISSP has defined eight domains to organize the work of security professionals.
+    - First domain: Security and risk management focuses on defining security goals and objectives, risk mitigation, compliance, business continuity, and the law.
+    - The second domain is asset security. This domain focuses on securing digital and physical assets.
+    - The third domain is security architecture and engineering. This domain focuses on optimizing data security by ensuring effective tools, systems, and processes are in place.
+    - The fourth security domain is communication and network security. This domain focuses on managing and securing physical networks and wireless communications.
+    - The fifth domain: identity and access management. Identity and access management focuses on keeping data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces, and logical assets, such as networks and applications.
+    - The sixth domain is security assessment and testing. This domain focuses on conducting security control testing, collecting and analyzing data, and conducting security audits to monitor for risks, threats, and vulnerabilities.
+    - The seventh domain is security operations. This domain focuses on conducting investigations and implementing preventative measures.
+    - The final, eighth domain is software development security. This domain focuses on using secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services.
+    - Attack types:
+      - Password attack: A password attack is an attempt to access password-secured devices, systems, networks, or data
+      - Social engineering attack: Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables.
+      - Physical attack: A physical attack is a security incident that affects not only digital but also physical environments where the incident is deployed.
+      - Adversarial artificial intelligence: Adversarial artificial intelligence is a technique that manipulates artificial intelligence and machine learning technology to conduct attacks more efficiently.
+      - A supply-chain attack targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed.
+      - Cryptographic attack: A cryptographic attack affects secure forms of communication between a sender and intended recipient
+    - Threat actor types:
+      - Advanced persistent threats: Advanced persistent threats (APTs) have significant expertise accessing an organization's network without authorization.
+      - Insider threats: Insider threats abuse their authorized access to obtain data that may harm an organization.
+      - Hacktivists: Hacktivists are threat actors that are driven by a political agenda.
+      - Hacker types:
+        - Authorized hackers are also called ethical hackers. They follow a code of ethics and adhere to the law to conduct organizational risk evaluations.
+        - Semi-authorized hackers are considered researchers. They search for vulnerabilities but don’t take advantage of the vulnerabilities they find.
+        - Unauthorized hackers are also called unethical hackers. They are malicious threat actors who do not follow or respect the law.
+
+#### Review
+- Terms and definitions from Course 1, Module 2
+	- Adversarial artificial intelligence (AI): A technique that manipulates artificial intelligence (AI) and machine learning (ML) technology to conduct attacks more efficiently
+	- Business Email Compromise (BEC): A type of phishing attack where a threat actor impersonates a known source to obtain financial advantage
+	- CISSP: Certified Information Systems Security Professional is a globally recognized and highly sought-after information security certification, awarded by the International Information Systems Security Certification Consortium
+	- Computer virus: Malicious code written to interfere with computer operations and cause damage to data and software
+	- Cryptographic attack: An attack that affects secure forms of communication between a sender and intended recipient
+	- Hacker: Any person who uses computers to gain access to computer systems, networks, or data
+	- Malware: Software designed to harm devices or networks
+	- Password attack: An attempt to access password secured devices, systems, networks, or data
+	- Phishing: The use of digital communications to trick people into revealing sensitive data or deploying malicious software
+	- Physical attack: A security incident that affects not only digital but also physical environments where the incident is deployed
+	- Physical social engineering: An attack in which a threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location
+	- Social engineering: A manipulation technique that exploits human error to gain private information, access, or valuables
+	- Social media phishing: A type of attack where a threat actor collects detailed information about their target on social media sites before initiating the attack
+	- Spear phishing: A malicious email attack targeting a specific user or group of users, appearing to originate from a trusted source
+	- Supply-chain attack: An attack that targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed
+	- USB baiting: An attack in which a threat actor strategically leaves a malware USB stick for an employee to find and install to unknowingly infect a network
+	- Virus: refer to “computer virus”
+	- Vishing: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source
+	- Watering hole attack: A type of attack when a threat actor compromises a website frequently visited by a specific group of users
